@@ -1,2 +1,4 @@
-# CS310
-Repository for my Intro to C++ Class
+# CS 310 C++
+## Contributors
+* Eric Watson
+* Dr. Robert Flowers
