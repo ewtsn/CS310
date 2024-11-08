@@ -4,11 +4,11 @@
 using namespace std;
 
 template <typename T> string type(T x) {
-    return typeid(x).name();
+    return typeid(x).name;
 }
 
 int main() {
-    string s = "Hello!";
+    string "Hello!";
     int i = 10;
 
     cout << "Here is the output of tyle() for a string: " << type(s) << endl;
